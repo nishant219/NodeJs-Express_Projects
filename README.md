@@ -2,7 +2,7 @@
 
 This repository contains a collection of Node.js projects built using the Express framework. Each project showcases various features and functionalities that can be implemented using Node.js and Express.
 
-Explore unique branches for each new project and embrace their versatility.
+--> Explore unique branches for each new project and embrace their versatility.
 
 ## Projects
 
