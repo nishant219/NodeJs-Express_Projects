@@ -6,7 +6,7 @@ This repository contains a collection of Node.js projects built using the Expres
 
 ## Projects
 
-The repository includes the following projects:
+The repository includes the following projects on different branch:
 
 - [Project 1](project1/): [Brief project description]
 - [Project 2](project2/): [Brief project description]
