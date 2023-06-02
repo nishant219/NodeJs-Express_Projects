@@ -8,9 +8,9 @@ This repository contains a collection of Node.js projects built using the Expres
 
 The repository includes the following projects on different branch:
 
-- [Project 1](project1/): [Brief project description]
-- [Project 2](project2/): [Brief project description]
-- [Project 3](project3/): [Brief project description]
+- [Project 1-CRUD ](https://github.com/nishant219/NodeJs-Express_Projects/tree/crud): [Brief project description]
+- [Project 2-TaskManager ](https://github.com/nishant219/NodeJs-Express_Projects/tree/taskManager): [Brief project description]
+- [Project 3-StoreAPI](https://github.com/nishant219/NodeJs-Express_Projects/tree/StoreAPI): [Brief project description]
 
 Feel free to explore the individual project directories for detailed information on each project.
 
