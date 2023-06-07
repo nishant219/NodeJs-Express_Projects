@@ -45,7 +45,7 @@ Configure the environment variables:
 
 - `POST /signup`: Create a new user account.
 - `POST /login`: Authenticate and login the user.
-- `POST /logout`: Log out the currently logged-in user.
+- `GET /logout`: Log out the currently logged-in user.
 - `POST /forgotPassword`: Initiate the password reset process.
 - `POST /passwordReset`: Reset the user's password.
 - `GET /getLoggedInUsersDetails`: Retrieve details of the logged-in user.
