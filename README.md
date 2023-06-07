@@ -11,6 +11,7 @@ The repository includes the following projects on different branch:
 - [Project 1-CRUD ](https://github.com/nishant219/NodeJs-Express_Projects/tree/crud): [Brief project description]
 - [Project 2-TaskManager ](https://github.com/nishant219/NodeJs-Express_Projects/tree/taskManager): [Brief project description]
 - [Project 3-StoreAPI](https://github.com/nishant219/NodeJs-Express_Projects/tree/StoreAPI): [Brief project description]
+- [Project 4-user profile generation and auth](https://github.com/nishant219/NodeJs-Express_Projects/tree/userProfile-Auth): [A robust user profile generation and authentication system. It enables users to sign up, log in, log out, reset passwords, update their profile information, and retrieve details of the logged-in user. The project leverages the power of Cloudinary to handle image uploads and utilizes Nodemailer in combination with Mailtrap for sending emails to users.]
 
 Feel free to explore the individual project directories for detailed information on each project.
 
